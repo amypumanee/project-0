@@ -12,4 +12,17 @@ A basic Tic Tac Toe Game with a cute lollipop background.
 - The Winner is Player O
 - DRAW!
 
-3. You can click Reset button to replay the game.
+3. Your score will keep and show on Score Board.
+
+4. You can click Replay button to replay the game or Restart button to restart the Score Board.
+
+## Feature
+
+This simple Tic Tac Toe game need 2 player to play this game.
+When someone win, the wining line will flash and keep score on the Score Board.
+
+### Many many thanks to...
+
+Super Joel.
+Sweetie Rashida.
+My all Lovely classmates.
